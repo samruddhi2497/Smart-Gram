@@ -17,7 +17,7 @@ A comprehensive digital platform for rural governance that modernizes Gram Panch
 - **Admin**: Complete system management, analytics, user promotion
 
 ### 🌍 **Multilingual Support (i18n)**
-- **7 Indian Languages**: English, Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati
+- **3 Indian Languages**: English, Hindi, Marathi
 - **Dynamic Language Switching** with persistent preferences
 - **Native Script Display**
 
@@ -121,6 +121,12 @@ npm install
 cp .env.example .env
 # Edit .env with your configuration
 
+# Seed users for all roles (Admin, Staff, Users)
+npm run seed:users
+
+# Or seed only admin user
+npm run seed:admin
+
 # Start the backend server
 npm run dev
 ```
@@ -158,6 +164,39 @@ CLOUDINARY_API_SECRET=your-api-secret
 # Frontend URL
 FRONTEND_URL=http://localhost:3000
 ```
+
+### **5. Database Seeding**
+
+After setting up the backend, you can seed the database with users for all roles:
+
+```bash
+cd backend
+npm run seed:users
+```
+
+This will create the following users:
+
+#### **Admin User**
+- **Email**: `admin@gp.in`
+- **Password**: `admin123`
+- **Role**: Admin (full system access)
+
+#### **Staff Users** (Password: `staff123`)
+- **General Administration**: `staff.admin@gp.in` - Rajesh Kumar
+- **Revenue**: `staff.revenue@gp.in` - Priya Sharma
+- **Public Works**: `staff.publicworks@gp.in` - Amit Patel
+- **Health**: `staff.health@gp.in` - Dr. Sunita Desai
+- **Education**: `staff.education@gp.in` - Vikram Singh
+- **Welfare**: `staff.welfare@gp.in` - Meera Joshi
+- **Water Supply**: `staff.watersupply@gp.in` - Deepak More
+- **Sanitation**: `staff.sanitation@gp.in` - Anjali Pawar
+
+#### **Regular Users** (Password: `user123`)
+- **User 1**: `user1@example.com` - Ramesh Gupta
+- **User 2**: `user2@example.com` - Sita Devi
+- **User 3**: `user3@example.com` - Mohammad Ali
+
+> **Note**: All seeded users are pre-verified and active. You can use these credentials to test different role-based functionalities.
 
 ## 📋 API Documentation
 
@@ -313,4 +352,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Digital E Gram Panchayat** - Empowering rural communities through digital governance 🇮🇳
 
-For more information, visit our [documentation](docs/) or contact the development team.
+For more information, visit our [documentation](docs/) or contact the development team.#   S m a r t - G r a m - F r o n t e n d  
+ 

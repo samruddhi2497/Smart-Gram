@@ -352,6 +352,53 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Digital E Gram Panchayat** - Empowering rural communities through digital governance 🇮🇳
 
-For more information, visit our [documentation](docs/) or contact the development team.#   S m a r t - G r a m - F r o n t e n d  
- #   S m a r t - G r a m - F r o n t e n d  
+For more information, visit our [documentation](docs/) or contact the development team.#   S m a r t - G r a m - F r o n t e n d 
+ 
+ #   S m a r t - G r a m - F r o n t e n d 
+## 📸 Screenshots
+### 🏠 Welcome Screen
+<img width="1366" height="720" alt="Screenshot 2026-04-05 190631" src="https://github.com/user-attachments/assets/b05ad992-5e73-4165-9ae5-dc8cde7e6182" />
+
+## Registration Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 190814 - Copy" src="https://github.com/user-attachments/assets/2255d392-6f4c-43cb-a942-66e8e682071f" />
+
+## Why Choose Smart-Gram Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 190841 - Copy" src="https://github.com/user-attachments/assets/81ffb967-c39f-4969-9438-b96b179ba835" />
+
+## Footer Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 190931" src="https://github.com/user-attachments/assets/71369a3b-41fb-4fd8-b0ef-b7acd9ed8ba0" />
+
+### 👤 Citizen Home Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 190959 - Copy" src="https://github.com/user-attachments/assets/a5a155ff-a162-4ddf-becb-d19e065be76d" />
+
+### 📝 Application Form
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191049" src="https://github.com/user-attachments/assets/7b04b8ff-3146-4fb0-ae6a-cff66b26d159" />
+
+##Application Status Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191126" src="https://github.com/user-attachments/assets/bdcef156-97e8-41f3-a2be-5c16c95a4613" />
+
+### 📊 Admin Dashboard
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191239" src="https://github.com/user-attachments/assets/fa37a466-16e1-4a76-9c23-70d8bae41b1d" />
+
+## Add Staff Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191341" src="https://github.com/user-attachments/assets/ef44202b-da92-446f-83a6-94b60a96aa2f" />
+
+## Service Mangagement Page
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191351" src="https://github.com/user-attachments/assets/b95d4da7-ae02-4861-bf54-5b34c3e7c4d9" />
+
+## System Log Information
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191412" src="https://github.com/user-attachments/assets/84f816cb-9ea6-4eaf-8379-2102161ee453" />
+
+## Add Anounsement Form
+<img width="1366" height="720" alt="Screenshot 2026-04-05 191437" src="https://github.com/user-attachments/assets/18e218e6-fe10-4f1b-89c6-18a1d1a975f2" />
+
+
+
+
+
+
+
+
+
+
  
